@@ -1,3 +1,5 @@
+# SCOPES: Stability-Aware Cross-Platform Feature Selection for Matched TCGA Gene Expression and RNA-Seq Data
+
 #
  Cross–platform reuse of legacy microarrays with modern RNA–Seq is attractive but
  challenging: the same gene can follow different measurement distributions, and feature
