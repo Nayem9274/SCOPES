@@ -1,6 +1,6 @@
 # SCOPES: Stability-Aware Cross-Platform Feature Selection for Matched TCGA Gene Expression and RNA-Seq Data
 
-#
+
  Cross–platform reuse of legacy microarrays with modern RNA–Seq is attractive but
  challenging: the same gene can follow different measurement distributions, and feature
  selection can leak label information and inflate performance. We develop SCOPES, a
@@ -18,4 +18,4 @@ form shift. Replacing the slab with an unsupervised MAD filter and enforcing pat
  SCOPES makes this trade–off explicit and suggests selecting near a Pareto “knee” under
  explicit size and alignment constraints. Reporting both ∆AUC and an alignment metric
  provides a simple, reproducible framework for building cross–platform gene signatures.
-#
+
